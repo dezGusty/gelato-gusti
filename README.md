@@ -17,5 +17,5 @@ Do you want to talk? Why not [visit our contact page](ContactPage.md) and have a
 
 ## Flavors
 
-Check out our flavors [flavors](./flavors.md)
+Check out our flavors [flavors](./Photos/flavors.md)
 
