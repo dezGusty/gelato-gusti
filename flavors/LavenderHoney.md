@@ -29,4 +29,4 @@ With Lavender Honey, every drop is an invitation to savor the delicate fusion of
 
 Note: As with any honey product, please exercise caution if you have known allergies to pollen or bee products.
 
-![Lavender Honey ice cream](./../Photos/LavenderHoney.jpg)
+![Lavender Honey ice cream](../Photos/lavenderhoney.jpg)
