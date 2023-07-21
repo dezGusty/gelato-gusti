@@ -16,9 +16,9 @@
 
 # Our Team
 
-- Team Member 1 Name
-    - Team Member 1 Description
-    - Contact: [email4@example.com]
+- Frozen Milk Guru
+    - Frozen Milk Guru is the creative genius at our charming ice cream shop. His passion for frozen treats is infectious, and his skills at crafting delightful ice cream concoctions are unmatched. With a warm smile and a twinkle in his eye, he welcomes customers to a world of frozen delights.
+    - Contact: [frozen_milk_guru@gelatogusti.com]
 
 - Team Member 2 Name
     - Team Member 2 Description
