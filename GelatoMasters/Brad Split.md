@@ -8,11 +8,11 @@ His dedication to quality and creativity has earned him a loyal following of gel
 
 ## Flavors created
 
-[Blueberry Basil](../BlueberryBasil.md)
+[Blueberry Basil](../flavors/BlueberryBasil.md)
 
 ## Favourites
 
-[Fig and Port Wine](../Fig_and_port_wine.md)
+[Fig and Port Wine](../flavors/Fig_and_port_wine.md)
 
 ## Check out the [README](../README.md)
 
