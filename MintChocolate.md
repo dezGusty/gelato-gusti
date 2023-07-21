@@ -14,3 +14,5 @@ Mint chocolate chip ice cream is a flavor composed of mint ice cream with small 
 - Green food coloring: This is optional but you can add in 2 drops of green food coloring to make these look more fun.
 
 - Semi-sweet chocolate chips: Use 1/2 cup of semi sweet chocolate chips to give these mints a nice chocolate swirl.
+
+![Mint Chocolate photo](./Photos/mintchocolate.jpg)
