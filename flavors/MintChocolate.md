@@ -15,4 +15,4 @@ Mint chocolate chip ice cream is a flavor composed of mint ice cream with small 
 
 - Semi-sweet chocolate chips: Use 1/2 cup of semi sweet chocolate chips to give these mints a nice chocolate swirl.
 
-![Mint Chocolate photo](./Photos/mintchocolate.jpg)
+![Mint Chocolate photo](../Photos/mintchocolate.jpg)
