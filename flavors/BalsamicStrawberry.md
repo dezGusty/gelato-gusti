@@ -1,7 +1,5 @@
 # Balsamic Strawberry Flavor
 
-<!--TODO: add picture-->
-
 ## Introduction
 
 The Balsamic Strawberry flavor is a delightful combination of sweet and tangy, marrying the succulent taste of ripe strawberries with the richness of balsamic vinegar. This unique fusion creates an unforgettable taste experience that tantalizes your taste buds and leaves you craving for more.
@@ -34,5 +32,11 @@ The Balsamic Strawberry flavor is a gourmet delight that showcases the beauty of
 
 Next time you're looking for a culinary adventure, don't hesitate to explore the captivating world of Balsamic Strawberry flavor!
 
-<p><img alt="Strawberry-Balsamic" src="Photos\Strawberry-Balsamic.jpg" title="Strawberry-Balsamic" width="100" height="100"/> </p>
+<p><img src="../Photos/Strawberry-Balsamic.jpg" title="Strawberry-Balsamic" width="120" height="200"/></p>
 
+## Prices
+
+* 1 cup - 6 lei
+* 2 cups - 11 lei
+* 3 cups - 15 lei
+* 4 cups - 25 lei
