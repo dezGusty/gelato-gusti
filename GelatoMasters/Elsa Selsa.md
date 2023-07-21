@@ -17,6 +17,10 @@ The hardships of ruling an empire comes with problems like being alcoholic
 
 [EspressoToffee](../flavors/EspressoToffeeCrunch.md) to sweeten the heart of a cruel ruthless monarch
 
+## Favourites
+
+[MintChocolate](../flavors/MintChocolate.md)
+
 
 ![elsa-selsa-photo](../Photos/elsa-selsa.jpg)
 
