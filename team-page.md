@@ -25,7 +25,7 @@
     - Contact: [frozen_milk_guru@gelatogusti.com]
     - [read more](FrozenMilkGuru.md)
 
-- Team Member Elsa Selsa, "The Queen of Creamless Icecream
+- Team Member [Elsa Selsa, "The Queen of Creamless Icecream"](Authored/Elsa.md)
     - Step aside, conventional ice cream, because Elsa Selsa is rewriting the frozen dessert playbook with her groundbreaking creations.
     - Contact: [FightHardDieEasy@frozen.com]
 
