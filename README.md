@@ -12,4 +12,6 @@ Find us [here](./location.md)
 
 ## Contact
 
+Meet the team that made all of this possible [Visit the team](team-page.md)
 Do you want to talk? Why not [visit our contact page](ContactPage.md) and have a chat!
+
