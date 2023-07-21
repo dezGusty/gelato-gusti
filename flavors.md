@@ -1,3 +1,3 @@
 # Flavors
 
-placeholder page for flavors
+[Blueberry Basil](BlueberryBasil.md)
