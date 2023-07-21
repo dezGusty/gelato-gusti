@@ -1,3 +1,7 @@
+![Logo team smiling](./Photos/team_smiling_image.jpg)
+
+[Back to README](README.md)
+
 # Owners
 
 - Owner Name
@@ -24,6 +28,7 @@
     - Team Member 2 Description
     - Contact: [email5@example.com]
 
-- Team Member 3 Name
-    - Team Member 3 Description
-    - Contact: [email6@example.com]
+- Team Member Brad Split
+    - Brad Split is not your ordinary gelato enthusiast; he's a bona fide gelato specialist who lives and breathes frozen artistry.
+    - Contact: [BananaWhoBrad@Split.com]
+
