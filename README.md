@@ -1,3 +1,5 @@
+![Logo gelato-gusti](./gelato_logo.jpg)
+
 # gelato-gusti
 
 The true gelato experience
@@ -10,4 +12,10 @@ Find us [here](./location.md)
 
 ## Contact
 
+Meet the team that made all of this possible [Visit the team](team-page.md)
 Do you want to talk? Why not [visit our contact page](ContactPage.md) and have a chat!
+
+## Flavors
+
+Check out our flavors [flavors](./flavors.md)
+
