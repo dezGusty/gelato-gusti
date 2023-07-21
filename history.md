@@ -1,6 +1,8 @@
 
 ### History to the most delightful gelato
 
+[Inapoi la README](./README.md)
+
 In the year 1998, Gelato Gusty opened its doors in the vibrant coastal town of Rimini, Italy. The picturesque gelateria was the brainchild of twin brothers Luca and Marco Rossi, who inherited their passion for gelato-making from their grandmother.
 
 The Rossi brothers had spent years perfecting their craft, experimenting with unique flavor combinations and using only the finest ingredients sourced from local farmers. Gelato Gusty quickly gained a reputation for its exceptional quality and authentic Italian flavors, garnering a loyal following of locals and tourists alike.
