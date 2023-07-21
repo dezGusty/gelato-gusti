@@ -27,9 +27,9 @@ By submitting this form, you agree to our Privacy Policy, and you consent to the
 
 If you prefer other means of communication or have specific inquiries, you can reach us through the following methods:
 
-Customer Support:
-
 -----------
+
+Customer Support:
 
 Email: [support@gusti.com]
 
@@ -51,10 +51,10 @@ Office Address:
 
 ## Social Media:
 
-Facebook: [facebook.com/yourwebsite]
+Facebook: [https://facebook.com/gelatogusti]
 
-Twitter: [twitter.com/yourwebsite]
+Twitter: [https://twitter.com/gelatogusti]
 
-Instagram: [instagram.com/yourwebsite]
+Instagram: [https://instagram.com/gelatogusti]
 
 <img src="./Photos/contact.png" width="400" height="100">
