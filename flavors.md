@@ -2,4 +2,6 @@
 
 [Blueberry Basil](BlueberryBasil.md)
 
-[Lavender Honey] (flavors\Lavender Honey.md)
+[Lavender_Honey](flavors/Lavender_Honey.md)
+
+[Whiskey](Whiskey.md)
