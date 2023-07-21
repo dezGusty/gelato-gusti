@@ -10,6 +10,6 @@
 
 [Espresso Toffee Crunch](./flavour/espressotoffee.md)
 
-[Galactic Crunch](./flavour/Galactic Crunch.md)
+[Galactic Crunch](./flavour/GalacticCrunch.md) <img src="./Photos/galactic_crunch.jpg" title="galactic-crunch" width="48" height="48"/>
 
 [Whiskey](./flavors/Whiskey.md) <img  src="./Photos/whiskey-ice-cream.jpg" title="whiskey" width="48" height="48"/>
