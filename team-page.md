@@ -25,9 +25,9 @@
     - Contact: [frozen_milk_guru@gelatogusti.com]
     - [read more](FrozenMilkGuru.md)
 
-- Team Member 2 Name
-    - Team Member 2 Description
-    - Contact: [email5@example.com]
+- Team Member Elsa Selsa, "The Queen of Creamless Icecream
+    - Step aside, conventional ice cream, because Elsa Selsa is rewriting the frozen dessert playbook with her groundbreaking creations.
+    - Contact: [FightHardDieEasy@frozen.com]
 
 - Team Member [Brad Split](Authored/Brad%20Split.md)
     - Brad Split is not your ordinary gelato enthusiast; he's a bona fide gelato specialist who lives and breathes frozen artistry.

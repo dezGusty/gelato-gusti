@@ -28,3 +28,5 @@ Lavender Honey comes in an elegant glass jar, allowing you to see the captivatin
 With Lavender Honey, every drop is an invitation to savor the delicate fusion of floral lavender and sweet honey. Whether you're seeking a moment of tranquility or a unique culinary delight, Lavender Honey promises to captivate your senses and leave you with a truly aromatic experience.
 
 Note: As with any honey product, please exercise caution if you have known allergies to pollen or bee products.
+
+![Lavender Honey ice cream](../Photos/LavenderHoney.jpg)

@@ -1,7 +1,5 @@
 # Balsamic Strawberry Flavor
 
-<!--TODO: add picture-->
-
 ## Introduction
 
 The Balsamic Strawberry flavor is a delightful combination of sweet and tangy, marrying the succulent taste of ripe strawberries with the richness of balsamic vinegar. This unique fusion creates an unforgettable taste experience that tantalizes your taste buds and leaves you craving for more.
