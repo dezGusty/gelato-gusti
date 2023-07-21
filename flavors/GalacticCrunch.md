@@ -17,3 +17,5 @@
 - 1/2 cup of multicolored crunchy candy pieces (like M&M's, crushed rainbow sprinkles, or any other colorful candy)
 
 Sounds like a dream, doesn't it?
+
+![galactic-crunch](../Photos/galactic_crunch_big.jpg)
