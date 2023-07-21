@@ -1,1 +1,0 @@
-https://github.com/dezGusty/gelato-gusti/blob/main/README.md
