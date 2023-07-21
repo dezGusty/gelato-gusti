@@ -13,4 +13,5 @@ The hardships of ruling an empire comes with problems like being alcoholic
 ## Favorites:
 
 [Whiskey](../flavors/Whiskey.md) after a cold day of work
+
 [EspressoToffee](../flavors/EspressoToffeeCrunch.md) to sweeten the heart of a cruel ruthless monarch
