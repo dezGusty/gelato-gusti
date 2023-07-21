@@ -2,21 +2,6 @@
 
 [Back to README](README.md)
 
-# Owners
-
-- Owner Name
-    - Owner 1 Description
-    - Contact: [email1@example.com]
-
-# Chefs
-
-- Head Chef 1 Name
-    - Head Chef 1 Description
-    - Contact: [email2@example.com]
-
-- Head Chef 2 Name
-    - Head Chef 2 Description
-    - Contact: [email3@example.com]
 
 # Our Team
 
