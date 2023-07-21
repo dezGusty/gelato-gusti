@@ -1,4 +1,7 @@
+![Logo gelato-gusti](./gelato_logo.jpg)
+
 # gelato-gusti
+
 The true gelato experience
 
 ## History
