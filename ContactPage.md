@@ -1,5 +1,7 @@
 Contact Us
 
+[Inapoi la README](./README.md)
+
 Thank you for reaching out to us! We value your feedback, inquiries, and suggestions. Please feel free to get in touch using the following contact information or by filling out the form below:
 
 Contact Information:
@@ -44,3 +46,5 @@ Social Media:
 Facebook: [facebook.com/yourwebsite]
 Twitter: [twitter.com/yourwebsite]
 Instagram: [instagram.com/yourwebsite]
+
+<img src="https://github.com/dezGusty/gelato-gusti/blob/main/Photos/contact.png..." data-canonical-src="https://github.com/dezGusty/gelato-gusti/blob/main/Photos/contact.png" width="200" height="400" />
