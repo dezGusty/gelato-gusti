@@ -1,1 +1,0 @@
-https://github.com/dezGusty/gelato-gusti/tree/main/flavors
