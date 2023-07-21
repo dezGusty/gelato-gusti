@@ -3,7 +3,7 @@
 
 [Inapoi la README](./README.md)
 
-![Gelato-gusti opened in 1998 ](Photos\store_opened.jpg)
+![Gelato-gusti opened in 1998 ](..\gelato-gusti\Photos\store_opened.jpg)
 
 In the year 1998, Gelato Gusty opened its doors in the vibrant coastal town of Rimini, Italy. The picturesque gelateria was the brainchild of twin brothers Luca and Marco Rossi, who inherited their passion for gelato-making from their grandmother.
 
