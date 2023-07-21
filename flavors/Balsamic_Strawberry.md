@@ -34,5 +34,5 @@ The Balsamic Strawberry flavor is a gourmet delight that showcases the beauty of
 
 Next time you're looking for a culinary adventure, don't hesitate to explore the captivating world of Balsamic Strawberry flavor!
 
-<p><img alt="Strawberry-Balsamic" src="Photos\Strawberry-Balsamic.jpg" title="Strawberry-Balsamic" width="100" height="100"/> </p>
+<p><img src="../Photos/Strawberry-Balsamic.jpg" title="Strawberry-Balsamic" width="120" height="200"/></p>
 
