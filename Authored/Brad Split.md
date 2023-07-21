@@ -10,3 +10,6 @@ His dedication to quality and creativity has earned him a loyal following of gel
 [Blueberry Basil](../BlueberryBasil.md)
 
 ## Check out the [README](../README.md)
+
+## Photo of the creator
+<img src="../Photos/Bradd_Split.jpg" width="400" height="100">
