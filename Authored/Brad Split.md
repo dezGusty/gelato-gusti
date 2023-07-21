@@ -1,4 +1,4 @@
-## Brad Split - Gelato Creator
+# Brad Split - Gelato Creator
 
 Brad Split is a passionate gelato creator known for his innovative and indulgent frozen creations. With a deep love for both culinary artistry and scientific precision, Brad combines the finest ingredients and cutting-edge techniques to craft gelato flavors that delight the senses.
 
@@ -13,3 +13,5 @@ His dedication to quality and creativity has earned him a loyal following of gel
 ## Favourites
 
 [Fig and Port Wine](../Fig_and_port_wine.md)
+
+## Check out the [README](../README.md)
