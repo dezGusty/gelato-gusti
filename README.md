@@ -1,4 +1,4 @@
-![Logo gelato-gusti](.Photos/gelato_logo.jpg)
+![Logo gelato-gusti](./Photos/gelato_logo.jpg)
 
 # gelato-gusti
 
