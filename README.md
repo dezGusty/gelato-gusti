@@ -19,3 +19,7 @@ Do you want to talk? Why not [visit our contact page](ContactPage.md) and have a
 
 Check out our flavors [flavors](./flavors.md)
 
+## Icecream
+
+Want to buy some [ice cream](pricing.md)? We have great prices!
+
