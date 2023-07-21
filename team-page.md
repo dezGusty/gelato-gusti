@@ -1,3 +1,5 @@
+![Logo team smiling](./Photos/team_smiling_image.jpg)
+
 # Owners
 
 - Owner Name
