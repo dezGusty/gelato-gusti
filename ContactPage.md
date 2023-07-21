@@ -51,10 +51,10 @@ Office Address:
 
 ## Social Media:
 
-Facebook: [facebook.com/gelatogusti]
+Facebook: [https://facebook.com/gelatogusti]
 
-Twitter: [twitter.com/gelatogusti]
+Twitter: [https://twitter.com/gelatogusti]
 
-Instagram: [instagram.com/gelatogusti]
+Instagram: [https://instagram.com/gelatogusti]
 
 <img src="./Photos/contact.png" width="400" height="100">
