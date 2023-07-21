@@ -1,3 +1,7 @@
+![Logo team smiling](./Photos/team_smiling_image.jpg)
+
+[Back to README](README.md)
+
 # Owners
 
 - Owner Name
