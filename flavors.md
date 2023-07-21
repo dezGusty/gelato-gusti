@@ -1,17 +1,17 @@
 # Flavors
 
-[Blueberry Basil](./flavors/BlueberryBasil.md)
+- [Blueberry Basil](./flavors/BlueberryBasil.md)
 
-[Lavender Honey](./flavors/LavenderHoney.md)
+- [Lavender Honey](./flavors/LavenderHoney.md)
 
-[Mint Chocolate](./flavors/MintChocolate.md)
+- [Mint Chocolate](./flavors/MintChocolate.md)
 
-[Espresso Toffee Crunch](./flavors/EspressoToffeeCrunch.md)
+- [Espresso Toffee Crunch](./flavors/EspressoToffeeCrunch.md)
 
-[Galactic Crunch](./flavors/GalacticCrunch.md) 
+- [Galactic Crunch](./flavors/GalacticCrunch.md) 
 
 <img src="./Photos/galactic_crunch.jpg" title="galactic-crunch" width="48" height="48"/>
 
-[Whiskey](./flavors/Whiskey.md) 
+- [Whiskey](./flavors/Whiskey.md) 
 
 <img  src="./Photos/whiskey-ice-cream.jpg" title="whiskey" width="48" height="48"/>
