@@ -12,5 +12,5 @@ Figs cooked in port wine, resulting in a rich and complex flavor with hints of s
 - 1 teaspoon pure vanilla extract
 - 5 large egg yolks
 
-![Fig and port wine icecream](./Photos/fig.JPG)
+![Fig and port wine icecream](../Photos/fig.JPG)
 
