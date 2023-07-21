@@ -12,6 +12,6 @@ Visit our ice cream parlor and let Frozen Milk Guru take you on an ice cream adv
 
 ## Favorite Section:
 
-[Fig and Port Wine](./Fig_and_port_wine.md)
+[Fig and Port Wine](..//Fig_and_port_wine.md)
 
-[Blueberry Basil](./BlueberryBasil.md)
+[Blueberry Basil](..//flavors/BlueberryBasil.md)
