@@ -8,7 +8,7 @@ With expert knowledge in ice cream history and a flair for experimentation, FMG 
 
 Visit our ice cream parlor and let Frozen Milk Guru take you on an ice cream adventure like no other! 🍦🌈
 
-![Gal Bundy Photo](./Photos/galBundy.jpg)
+![Gal Bundy Photo](../Photos/galBundy.jpg)
 
 ## Favorite Section:
 

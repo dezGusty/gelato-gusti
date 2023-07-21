@@ -1,4 +1,4 @@
-## Authored:
+## Melsa Melissa
 
 [Mint Chocolate](../flavors/MintChocolate.md)
 
