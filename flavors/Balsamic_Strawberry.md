@@ -33,3 +33,6 @@ Strawberries are a rich source of antioxidants, vitamin C, and other essential n
 The Balsamic Strawberry flavor is a gourmet delight that showcases the beauty of pairing seemingly contrasting flavors. Whether enjoyed in ice cream, tarts, or sauces, this flavor is sure to leave a lasting impression on anyone fortunate enough to experience it.
 
 Next time you're looking for a culinary adventure, don't hesitate to explore the captivating world of Balsamic Strawberry flavor!
+
+<p><img alt="Strawberry-Balsamic" src="Photos\Strawberry-Balsamic.jpg" title="Strawberry-Balsamic" width="100" height="100"/> </p>
+
