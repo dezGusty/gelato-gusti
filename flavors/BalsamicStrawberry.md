@@ -34,3 +34,9 @@ Next time you're looking for a culinary adventure, don't hesitate to explore the
 
 <p><img src="../Photos/Strawberry-Balsamic.jpg" title="Strawberry-Balsamic" width="120" height="200"/></p>
 
+## Prices
+
+* 1 cup - 6 lei
+* 2 cups - 11 lei
+* 3 cups - 15 lei
+* 4 cups - 25 lei
