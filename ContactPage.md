@@ -47,4 +47,4 @@ Facebook: [facebook.com/yourwebsite]
 Twitter: [twitter.com/yourwebsite]
 Instagram: [instagram.com/yourwebsite]
 
-<img src="https://github.com/dezGusty/gelato-gusti/blob/main/Photos/contact.png" width="100" height="100">
+<img src="https://github.com/dezGusty/gelato-gusti/blob/main/Photos/contact.png" width="500" height="300">
