@@ -2,4 +2,4 @@
 
 [Blueberry Basil](BlueberryBasil.md)
 
-./Lavender Honey.md
+[Lavender Honey] (./Lavender Honey.md)
