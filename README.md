@@ -1,4 +1,4 @@
-![Logo gelato-gusti](./gelato_logo.jpg)
+![Logo gelato-gusti](./Photos/gelato_logo.jpg)
 
 # gelato-gusti
 
@@ -17,5 +17,5 @@ Do you want to talk? Why not [visit our contact page](ContactPage.md) and have a
 
 ## Flavors
 
-Check out our flavors [flavors](./Photos/flavors.md)
+Check out our flavors [flavors](./flavors.md)
 
