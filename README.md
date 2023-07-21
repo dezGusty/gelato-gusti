@@ -13,3 +13,8 @@ Find us [here](./location.md)
 ## Contact
 
 Do you want to talk? Why not [visit our contact page](ContactPage.md) and have a chat!
+
+## Flavors
+
+Check out our flavors [flavors](./flavors.md)
+
